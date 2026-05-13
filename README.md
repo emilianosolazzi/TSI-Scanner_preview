@@ -1,4 +1,6 @@
 # TSI-Audit-Scanner
+> Looking for private-alpha testers: Solidity teams, auditors, and protocol engineers.
+>  Open an issue or follow SECURITY.md for contact.
 
 Public preview for a private-alpha Solidity audit scanner.
 
